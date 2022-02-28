@@ -1,0 +1,9 @@
+{
+    "name": "carwash/carwash",
+    "autoload": {
+        "psr-4": {
+            "Carwash\\Carwash\\": "src/"
+        }
+    },
+    "require": {}
+}
